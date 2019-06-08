@@ -1,0 +1,11 @@
+{
+  "name": "@bytesize/wanikani-api",
+  "version": "1.0.0",
+  "description": "JavaScript bindings for WaniKani's API",
+  "type": "module",
+  "types": "./src/index.d.ts",
+  "main": "src/index.js",
+  "repository": "https://github.com/jakehamilton/wanikani-api.git",
+  "author": "Jake Hamilton <jake@jakehamilton.dev>",
+  "license": "Apache-2.0"
+}
